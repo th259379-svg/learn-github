@@ -1,1 +1,3 @@
 # learn-github
+
+Download one of our spectacularly designed free layout packs, and you will see many instances of the phrase Lorem ipsum dolor sit amet. Why? Because all the way back to the 1500s and the invention of the Gutenberg printing press (not the Gutenberg WordPress Editor, haha), lorem ipsum has been used as placeholder text when you just need to show what something will look like filled in.  The problem, however, with text that has been used since the 1500s is that it’s kind of boring and kind of everywhere. Lucky for you (and me) there is more than one lorem ipsum alternative out there that can offer a unique take on the age-old placeholder text.
